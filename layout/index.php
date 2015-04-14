@@ -1,11 +1,16 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title></title>
+	<title>Thời trang MIXXO</title>
+	<link rel="stylesheet" href="css/style.css">
+	
 </head>
 <body>
-
-fuck a Tuấn
+<div class="container">
+	<div id="main-content" class="row">
+		
+	</div>
+</div>
 
 </body>
 </html>

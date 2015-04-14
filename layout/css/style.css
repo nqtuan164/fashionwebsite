@@ -1,0 +1,36 @@
+html, body {
+    font-family:'Meiryo', 'Segoe UI', Tahoma, Arial;
+    font-size: 12px;
+    margin: auto;
+    height: 100%;
+}
+body {
+    background-color: #fff;
+}
+h1, h2, h3, h4, h5, h6 {
+    margin: 0;
+    font-size: 12px;
+    font-weight: normal;
+    line-height: normal;
+}
+img {
+    border: none;
+}
+#main-content {
+    overflow: hidden;
+    background-color: #fff;
+}
+::-moz-selection {
+    background-color:rgb(41, 128, 185);
+    color:#FFF;
+}
+::selection {
+    background-color:rgb(41, 128, 185);
+    color:#FFF;
+}
+a {
+    color: rgb(63, 72, 204);
+}
+a:hover {
+    color: rgb(63, 72, 204);
+}
