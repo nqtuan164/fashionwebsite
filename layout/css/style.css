@@ -1,36 +1,94 @@
 html, body {
-    font-family:'Meiryo', 'Segoe UI', Tahoma, Arial;
-    font-size: 12px;
-    margin: auto;
-    height: 100%;
+	font-family:'Meiryo', 'Segoe UI', Tahoma, Arial;
+	font-size: 12px;
+	margin: auto;
+	height: 100%;
 }
 body {
-    background-color: #fff;
+	background-color: #fff;
 }
 h1, h2, h3, h4, h5, h6 {
-    margin: 0;
-    font-size: 12px;
-    font-weight: normal;
-    line-height: normal;
+	margin: 0;
+	font-size: 12px;
+	font-weight: normal;
+	line-height: normal;
 }
 img {
-    border: none;
+	border: none;
 }
 #main-content {
-    overflow: hidden;
-    background-color: #fff;
+	overflow: hidden;
+	background-color: #fff;
 }
 ::-moz-selection {
-    background-color:rgb(41, 128, 185);
-    color:#FFF;
+	background-color:rgb(41, 128, 185);
+	color:#FFF;
 }
 ::selection {
-    background-color:rgb(41, 128, 185);
-    color:#FFF;
+	background-color:rgb(41, 128, 185);
+	color:#FFF;
 }
-a {
-    color: rgb(63, 72, 204);
+.nopadding{
+	padding: 0 !important;
+}
+.nomargin{
+	margin: 0 !important;
+}
+/*a {
+	color: rgb(63, 72, 204);
 }
 a:hover {
-    color: rgb(63, 72, 204);
+	color: rgb(63, 72, 204);
+	}*/
+#logo{
+
+	padding-top: 30px;
+	padding-bottom: 10px;
+}
+#logo #img-logo{
+	margin: 0 auto;
+}
+#menu{
+	padding: 5px;
+	-moz-box-shadow: 0px 1px 5px #E2E1E1;
+	-webkit-box-shadow: 0px 1px 5px #E2E1E1;
+	box-shadow: 0px 1px 5px #E2E1E1;
+}
+.nav-menu{
+	border-top:3px solid #fdeaa9;
+	border-bottom:3px solid #fdeaa9;
+
+}
+.nav-menu nav{
+	margin-bottom: 0 !important;
+	background-color: #fff !important;
+	border: none;
+}
+#main-menu ul li a{
+	color:#2C2C2C;
+	font-size: 18px;
+	line-height: 20px;
+	overflow: hidden;
+	-webkit-transition: -webkit-transform 0.3s;
+	-moz-transition: -moz-transform 0.3s;
+	transition: transform 0.3s;
+}
+#main-menu ul li a:hover{
+	color:#BD3535;
+	-webkit-transform: all 500ms ease;
+	-moz-transform: all 500ms ease;
+	-ms-transform: all 500ms ease;
+	-o-transform: all 500ms ease;
+	transform: all 500ms ease;
+	-webkit-transform: translateY(-10%);
+	-moz-transform: translateY(-10%);
+	transform: translateY(-10%);
+}
+
+.slide-banner{
+	margin-top:30px;
+	border: #fff solid 8px;
+	-moz-box-shadow: 0px 0px 15px #E2E1E1;
+	-webkit-box-shadow: 0px 0px 15px #E2E1E1;
+	box-shadow: 0px 0px 15px #E2E1E1;
 }
