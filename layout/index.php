@@ -89,7 +89,7 @@
 		<!-- PRODUCT -->
 		<div class="product col-md-12 nopadding">
 			<div class="col-md-3">
-				<img src="" alt="" class="img-responsive">
+				<img src="img/2.jpg" alt="" class="img-responsive">
 			</div>
 		</div>
 		<!-- END of PRODUCT -->
