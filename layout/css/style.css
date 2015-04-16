@@ -99,7 +99,7 @@ a:hover {
 /*PRODUCT LIST*/
 .product-list {
 	margin-top: 30px;
-	padding-bottom:50px;
+	margin-bottom:100px;
 }
 .product-list .product{
 	margin-bottom:20px;
@@ -113,7 +113,7 @@ a:hover {
 }
 .product-list .product .product-img{
   overflow: hidden;
-  height: 300px !important;
+  height:300px;
   margin-bottom: 10px;	
 }
 .product-list .product .product-img:hover > img{
@@ -162,5 +162,11 @@ a:hover {
 #footer{
 	background-color:#fdd650;
 	min-height: 100px;
+	padding-top: 2px;
+}
+#footer hr{
+	background-color: #fff;
+	height: 20px;
+	margin-top: 1px;
 }
 

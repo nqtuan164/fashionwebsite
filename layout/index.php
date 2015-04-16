@@ -98,20 +98,11 @@
 					<p><a class="btn btnChiTiet btn-default" href="#" role="button">Chi tiết</a></p>
 				</div>
 			</div>
+			
 			<div class="col-md-3 col-sm-6 product">
 				<div class="col-md-12 product-content">
 					<a class="product-img col-md-12 nopadding" href="#">
 						<img src="img/product2.jpg" alt="" class="img-responsive">
-					</a>
-					<h3>Váy màu trắng bi</h3>
-					<h5>500.000VND</h5>
-					<p><a class="btn btnChiTiet btn-default" href="#" role="button">Chi tiết</a></p>
-				</div>
-			</div>
-			<div class="col-md-3 col-sm-6 product">
-				<div class="col-md-12 product-content">
-					<a class="product-img col-md-12 nopadding" href="#">
-						<img src="img/product1.jpg" alt="" class="img-responsive">
 					</a>
 					<h3>Váy màu trắng bi</h3>
 					<h5>500.000VND</h5>
@@ -156,7 +147,9 @@
 <!-- END of MAIN CONTENT -->
 <!-- FOOTER -->
 <div id="footer">
-	<div class="container">
+
+	<hr>
+	<div class="footer-content">
 		
 	</div>
 </div>
