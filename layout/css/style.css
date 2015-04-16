@@ -40,6 +40,8 @@ img {
 a:hover {
 	color: rgb(63, 72, 204);
 	}*/
+
+/*HEADER LOGO*/
 #logo{
 
 	padding-top: 30px;
@@ -48,6 +50,7 @@ a:hover {
 #logo #img-logo{
 	margin: 0 auto;
 }
+/*MENU*/
 #menu{
 	padding: 5px;
 	-moz-box-shadow: 0px 1px 5px #E2E1E1;
@@ -84,7 +87,7 @@ a:hover {
 	-moz-transform: translateY(-10%);
 	transform: translateY(-10%);
 }
-
+/*SLIDE*/
 .slide-banner{
 	margin-top:30px;
 	border: #fff solid 8px;
@@ -92,3 +95,72 @@ a:hover {
 	-webkit-box-shadow: 0px 0px 15px #E2E1E1;
 	box-shadow: 0px 0px 15px #E2E1E1;
 }
+
+/*PRODUCT LIST*/
+.product-list {
+	margin-top: 30px;
+	padding-bottom:50px;
+}
+.product-list .product{
+	margin-bottom:20px;
+}
+.product-list .product-content{
+	border: #fff solid 8px;
+	-moz-box-shadow: 0px 0px 15px #E2E1E1;
+	-webkit-box-shadow: 0px 0px 15px #E2E1E1;
+	box-shadow: 0px 0px 15px #E2E1E1;
+	
+}
+.product-list .product .product-img{
+  overflow: hidden;
+  height: 300px !important;
+  margin-bottom: 10px;	
+}
+.product-list .product .product-img:hover > img{
+	transform: scale(0.9);
+}
+.product-list .product img{
+	webkit-transition: all 0.3s linear;
+  -moz-transition: all 0.3s linear;
+  -o-transition: all 0.3s linear;
+  -ms-transition: all 0.3s linear;
+  transition: all 0.3s linear;
+
+
+}
+.product-list .product h3{
+	font-size:18px;
+	color:#ff8a00;
+	font-weight:100;
+	text-align: center;
+	font-style: italic;
+	margin-bottom: 10px;
+}
+.product-list .product h5{
+	margin:0 auto;
+	text-align: center;
+	font-size: 14px;
+	margin-bottom:10px;
+}
+.product-list .product-content p{
+	text-align: center;
+}
+.product-list .btnChiTiet{
+	margin:0 ;auto
+		webkit-transition: all 0.3s linear;
+  -moz-transition: all 0.3s linear;
+  -o-transition: all 0.3s linear;
+  -ms-transition: all 0.3s linear;
+  transition: all 0.3s linear;
+  border:2px solid #ff8a00;
+
+}
+.product-list .btnChiTiet:hover{
+	
+}
+
+#footer{
+	background-color:#fdd650;
+	min-height: 100px;
+}
+
