@@ -95,7 +95,7 @@
 					</a>
 					<h3>Váy màu trắng bi</h3>
 					<h5>500.000VND</h5>
-					<p><a class="btn btnChiTiet btn-default" href="#" role="button">Chi tiết</a></p>
+					<p><a class="btn btnChiTiet btn-default" href="product-details.php" role="button">Chi tiết</a></p>
 				</div>
 			</div>
 			
@@ -139,27 +139,136 @@
 					<p><a class="btn btnChiTiet btn-default" href="#" role="button">Chi tiết</a></p>
 				</div>
 			</div>
-
+			<div class="col-md-3 col-sm-6 product">
+				<div class="col-md-12 product-content">
+					<a class="product-img col-md-12 nopadding" href="#">
+						<img src="img/product1.jpg" alt="" class="img-responsive">
+					</a>
+					<h3>Váy màu trắng bi</h3>
+					<h5>500.000VND</h5>
+					<p><a class="btn btnChiTiet btn-default" href="#" role="button">Chi tiết</a></p>
+				</div>
+			</div>
+			<div class="col-md-3 col-sm-6 product">
+				<div class="col-md-12 product-content">
+					<a class="product-img col-md-12 nopadding" href="#">
+						<img src="img/product1.jpg" alt="" class="img-responsive">
+					</a>
+					<h3>Váy màu trắng bi</h3>
+					<h5>500.000VND</h5>
+					<p><a class="btn btnChiTiet btn-default" href="#" role="button">Chi tiết</a></p>
+				</div>
+			</div>
+			<div class="col-md-3 col-sm-6 product">
+				<div class="col-md-12 product-content">
+					<a class="product-img col-md-12 nopadding" href="#">
+						<img src="img/product1.jpg" alt="" class="img-responsive">
+					</a>
+					<h3>Váy màu trắng bi</h3>
+					<h5>500.000VND</h5>
+					<p><a class="btn btnChiTiet btn-default" href="#" role="button">Chi tiết</a></p>
+				</div>
+			</div>
+			<div class="col-md-3 col-sm-6 product">
+				<div class="col-md-12 product-content">
+					<a class="product-img col-md-12 nopadding" href="#">
+						<img src="img/product1.jpg" alt="" class="img-responsive">
+					</a>
+					<h3>Váy màu trắng bi</h3>
+					<h5>500.000VND</h5>
+					<p><a class="btn btnChiTiet btn-default" href="#" role="button">Chi tiết</a></p>
+				</div>
+			</div>
+			<div class="col-md-3 col-sm-6 product">
+				<div class="col-md-12 product-content">
+					<a class="product-img col-md-12 nopadding" href="#">
+						<img src="img/product1.jpg" alt="" class="img-responsive">
+					</a>
+					<h3>Váy màu trắng bi</h3>
+					<h5>500.000VND</h5>
+					<p><a class="btn btnChiTiet btn-default" href="#" role="button">Chi tiết</a></p>
+				</div>
+			</div>
+			<div class="col-md-3 col-sm-6 product">
+				<div class="col-md-12 product-content">
+					<a class="product-img col-md-12 nopadding" href="#">
+						<img src="img/product1.jpg" alt="" class="img-responsive">
+					</a>
+					<h3>Váy màu trắng bi</h3>
+					<h5>500.000VND</h5>
+					<p><a class="btn btnChiTiet btn-default" href="#" role="button">Chi tiết</a></p>
+				</div>
+			</div>
+			<div class="col-md-3 col-sm-6 product">
+				<div class="col-md-12 product-content">
+					<a class="product-img col-md-12 nopadding" href="#">
+						<img src="img/product1.jpg" alt="" class="img-responsive">
+					</a>
+					<h3>Váy màu trắng bi</h3>
+					<h5>500.000VND</h5>
+					<p><a class="btn btnChiTiet btn-default" href="#" role="button">Chi tiết</a></p>
+				</div>
+			</div>
+			<div class="col-md-3 col-sm-6 product">
+				<div class="col-md-12 product-content">
+					<a class="product-img col-md-12 nopadding" href="#">
+						<img src="img/product1.jpg" alt="" class="img-responsive">
+					</a>
+					<h3>Váy màu trắng bi</h3>
+					<h5>500.000VND</h5>
+					<p><a class="btn btnChiTiet btn-default" href="#" role="button">Chi tiết</a></p>
+				</div>
+			</div>
+			<div class="col-md-3 col-sm-6 product">
+				<div class="col-md-12 product-content">
+					<a class="product-img col-md-12 nopadding" href="#">
+						<img src="img/product1.jpg" alt="" class="img-responsive">
+					</a>
+					<h3>Váy màu trắng bi</h3>
+					<h5>500.000VND</h5>
+					<p><a class="btn btnChiTiet btn-default" href="#" role="button">Chi tiết</a></p>
+				</div>
+			</div>
+			<div class="col-md-3 col-sm-6 product">
+				<div class="col-md-12 product-content">
+					<a class="product-img col-md-12 nopadding" href="#">
+						<img src="img/product1.jpg" alt="" class="img-responsive">
+					</a>
+					<h3>Váy màu trắng bi</h3>
+					<h5>500.000VND</h5>
+					<p><a class="btn btnChiTiet btn-default" href="#" role="button">Chi tiết</a></p>
+				</div>
+			</div>
+			<div class="col-md-3 col-sm-6 product">
+				<div class="col-md-12 product-content">
+					<a class="product-img col-md-12 nopadding" href="#">
+						<img src="img/product1.jpg" alt="" class="img-responsive">
+					</a>
+					<h3>Váy màu trắng bi</h3>
+					<h5>500.000VND</h5>
+					<p><a class="btn btnChiTiet btn-default" href="#" role="button">Chi tiết</a></p>
+				</div>
+			</div>
 		</div>
 		<!-- END of PRODUCT -->
 	</div>
 </div>
 <!-- END of MAIN CONTENT -->
 <!-- FOOTER -->
-<div id="footer">
+<div id="footer" >
 
 	<hr>
-	<div class="footer-content container">
+	<div class="footer-content container nopadding">
 		
-		<div class="col-md-6 footer-address">
-			<img class="img-responsive" src="img/logo-2.png" height="46" width="250" alt="">
+		<div class="col-md-6 footer-address nopadding">
+			<img class="img-responsive" src="img/logo-2.png" alt="">
 			<ul class="list-unstyled">
 				<li><b>Địa Chỉ:</b>31 Lê Minh Xuân , Phường 7 , Quận Tân Bình</li>
 				<li><b>Điện thoại:</b>(08) 39716863 / (08) 39712566 / (08)39712656 / 0949999305</li>
 			</ul>
 		</div>
-		<div class="col-md-6 footer-social pull-right">
-			<h4 class="pull-right"><b>Thương hiệu thời trang uy tín hàng đầu Việt Nam</b></h4>
+		<div class="col-md-6 footer-social pull-right nopadding">
+			<h4 class="col-md-12 nopadding"><i class="pull-right ">Thương hiệu thời trang uy tín hàng đầu Việt Nam</i></h4>
 			<ul class="list-inline pull-right">
 				<li><a href=""><span class="glyphicon glyphicon-heart"></span></a></li>
 				<li><a href=""><span class="glyphicon glyphicon-heart"></span></a></li>
