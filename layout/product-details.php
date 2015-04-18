@@ -49,13 +49,13 @@
 <!-- MAIN CONTENT -->
 <div id="main-content" class="row">
 	<div class="container">
-<!-- 		<div class="col-md-12 col-xs-12 nopadding hidden-xs">
-		<ul class="breadcrumb-details">
-		<li><a href="index.php">Trang Chủ</a></li>
-		<li><a href="#">Thời trang nữ</a></li>
-		<li><a href="#">Váy màu trắng bi</a></li>
-	</ul>
-</div> -->
+		<div class="col-md-12 col-xs-12 nopadding hidden-xs">
+			<ul class="breadcrumb-details">
+				<li><a href="index.php">Trang Chủ</a></li>
+				<li><a href="#">Thời trang nữ</a></li>
+				<li><a href="#">Váy màu trắng bi</a></li>
+			</ul>
+		</div>
 
 <div class="col-md-12 col-xs-12 product-details">
 	<!-- PRODUCT DETAILS -->
