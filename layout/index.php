@@ -91,7 +91,7 @@
 			<div class="col-md-3 col-sm-6 product">
 				<div class="col-md-12 product-content">
 					<a class="product-img col-md-12 nopadding" href="#">
-						<img src="img/product1.jpg" alt="" class="img-responsive">
+						<img src="http://placehold.it/202x290" alt="" class="img-responsive">
 					</a>
 					<h3>Váy màu trắng bi</h3>
 					<h5>500.000VND</h5>
@@ -102,7 +102,7 @@
 			<div class="col-md-3 col-sm-6 product">
 				<div class="col-md-12 product-content">
 					<a class="product-img col-md-12 nopadding" href="#">
-						<img src="img/product2.jpg" alt="" class="img-responsive">
+						<img src="http://placehold.it/202x290" alt="" class="img-responsive">
 					</a>
 					<h3>Váy màu trắng bi</h3>
 					<h5>500.000VND</h5>
@@ -112,7 +112,7 @@
 			<div class="col-md-3 col-sm-6 product">
 				<div class="col-md-12 product-content">
 					<a class="product-img col-md-12 nopadding" href="#">
-						<img src="img/product1.jpg" alt="" class="img-responsive">
+						<img src="http://placehold.it/202x290" alt="" class="img-responsive">
 					</a>
 					<h3>Váy màu trắng bi</h3>
 					<h5>500.000VND</h5>
@@ -122,7 +122,7 @@
 			<div class="col-md-3 col-sm-6 product">
 				<div class="col-md-12 product-content">
 					<a class="product-img col-md-12 nopadding" href="#">
-						<img src="img/product1.jpg" alt="" class="img-responsive">
+						<img src="http://placehold.it/202x290" alt="" class="img-responsive">
 					</a>
 					<h3>Váy màu trắng bi</h3>
 					<h5>500.000VND</h5>
@@ -132,7 +132,7 @@
 			<div class="col-md-3 col-sm-6 product">
 				<div class="col-md-12 product-content">
 					<a class="product-img col-md-12 nopadding" href="#">
-						<img src="img/product1.jpg" alt="" class="img-responsive">
+						<img src="http://placehold.it/202x290" alt="" class="img-responsive">
 					</a>
 					<h3>Váy màu trắng bi</h3>
 					<h5>500.000VND</h5>
@@ -142,7 +142,7 @@
 			<div class="col-md-3 col-sm-6 product">
 				<div class="col-md-12 product-content">
 					<a class="product-img col-md-12 nopadding" href="#">
-						<img src="img/product1.jpg" alt="" class="img-responsive">
+						<img src="http://placehold.it/202x290" alt="" class="img-responsive">
 					</a>
 					<h3>Váy màu trắng bi</h3>
 					<h5>500.000VND</h5>
@@ -152,7 +152,7 @@
 			<div class="col-md-3 col-sm-6 product">
 				<div class="col-md-12 product-content">
 					<a class="product-img col-md-12 nopadding" href="#">
-						<img src="img/product1.jpg" alt="" class="img-responsive">
+						<img src="http://placehold.it/202x290" alt="" class="img-responsive">
 					</a>
 					<h3>Váy màu trắng bi</h3>
 					<h5>500.000VND</h5>
@@ -162,7 +162,7 @@
 			<div class="col-md-3 col-sm-6 product">
 				<div class="col-md-12 product-content">
 					<a class="product-img col-md-12 nopadding" href="#">
-						<img src="img/product1.jpg" alt="" class="img-responsive">
+						<img src="http://placehold.it/202x290" alt="" class="img-responsive">
 					</a>
 					<h3>Váy màu trắng bi</h3>
 					<h5>500.000VND</h5>
@@ -172,7 +172,7 @@
 			<div class="col-md-3 col-sm-6 product">
 				<div class="col-md-12 product-content">
 					<a class="product-img col-md-12 nopadding" href="#">
-						<img src="img/product1.jpg" alt="" class="img-responsive">
+						<img src="http://placehold.it/202x290" alt="" class="img-responsive">
 					</a>
 					<h3>Váy màu trắng bi</h3>
 					<h5>500.000VND</h5>
@@ -182,7 +182,7 @@
 			<div class="col-md-3 col-sm-6 product">
 				<div class="col-md-12 product-content">
 					<a class="product-img col-md-12 nopadding" href="#">
-						<img src="img/product1.jpg" alt="" class="img-responsive">
+						<img src="http://placehold.it/202x290" alt="" class="img-responsive">
 					</a>
 					<h3>Váy màu trắng bi</h3>
 					<h5>500.000VND</h5>
@@ -192,7 +192,7 @@
 			<div class="col-md-3 col-sm-6 product">
 				<div class="col-md-12 product-content">
 					<a class="product-img col-md-12 nopadding" href="#">
-						<img src="img/product1.jpg" alt="" class="img-responsive">
+						<img src="http://placehold.it/202x290" alt="" class="img-responsive">
 					</a>
 					<h3>Váy màu trắng bi</h3>
 					<h5>500.000VND</h5>
@@ -202,7 +202,7 @@
 			<div class="col-md-3 col-sm-6 product">
 				<div class="col-md-12 product-content">
 					<a class="product-img col-md-12 nopadding" href="#">
-						<img src="img/product1.jpg" alt="" class="img-responsive">
+						<img src="http://placehold.it/202x290" alt="" class="img-responsive">
 					</a>
 					<h3>Váy màu trắng bi</h3>
 					<h5>500.000VND</h5>
@@ -212,7 +212,7 @@
 			<div class="col-md-3 col-sm-6 product">
 				<div class="col-md-12 product-content">
 					<a class="product-img col-md-12 nopadding" href="#">
-						<img src="img/product1.jpg" alt="" class="img-responsive">
+						<img src="http://placehold.it/202x290" alt="" class="img-responsive">
 					</a>
 					<h3>Váy màu trắng bi</h3>
 					<h5>500.000VND</h5>
@@ -222,7 +222,7 @@
 			<div class="col-md-3 col-sm-6 product">
 				<div class="col-md-12 product-content">
 					<a class="product-img col-md-12 nopadding" href="#">
-						<img src="img/product1.jpg" alt="" class="img-responsive">
+						<img src="http://placehold.it/202x290" alt="" class="img-responsive">
 					</a>
 					<h3>Váy màu trắng bi</h3>
 					<h5>500.000VND</h5>
@@ -232,7 +232,7 @@
 			<div class="col-md-3 col-sm-6 product">
 				<div class="col-md-12 product-content">
 					<a class="product-img col-md-12 nopadding" href="#">
-						<img src="img/product1.jpg" alt="" class="img-responsive">
+						<img src="http://placehold.it/202x290" alt="" class="img-responsive">
 					</a>
 					<h3>Váy màu trắng bi</h3>
 					<h5>500.000VND</h5>
@@ -242,7 +242,7 @@
 			<div class="col-md-3 col-sm-6 product">
 				<div class="col-md-12 product-content">
 					<a class="product-img col-md-12 nopadding" href="#">
-						<img src="img/product1.jpg" alt="" class="img-responsive">
+						<img src="http://placehold.it/202x290" alt="" class="img-responsive">
 					</a>
 					<h3>Váy màu trắng bi</h3>
 					<h5>500.000VND</h5>
@@ -263,8 +263,8 @@
 		<div class="col-md-6 footer-address nopadding">
 			<img class="img-responsive" src="img/logo-2.png" alt="">
 			<ul class="list-unstyled">
-				<li><b>Địa Chỉ:</b>31 Lê Minh Xuân , Phường 7 , Quận Tân Bình</li>
-				<li><b>Điện thoại:</b>(08) 39716863 / (08) 39712566 / (08)39712656 / 0949999305</li>
+				<li><b>Địa Chỉ:</b> 31 Lê Minh Xuân , Phường 7 , Quận Tân Bình</li>
+				<li><b>Điện thoại:</b> (08) 39716863 / (08) 39712566 / (08)39712656 / 0949999305</li>
 			</ul>
 		</div>
 		<div class="col-md-6 footer-social pull-right nopadding">
