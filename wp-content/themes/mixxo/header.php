@@ -22,11 +22,42 @@
 	<?php wp_head(); ?>
 </head>
 
-<body <?php body_class(); ?>>
+<body>
 <div id="page" class="hfeed site">
-	<a class="skip-link screen-reader-text" href="#content"><?php _e( 'Skip to content', 'twentyfifteen' ); ?></a>
+	<!-- <a class="skip-link screen-reader-text" href="#content"><?php _e( 'Skip to content', 'twentyfifteen' ); ?></a> -->
+	
+	<!-- LOGO -->
+	<div id="header" class="row">
+		<div id="logo" class="container">
+			<a href="<?php echo esc_url( home_url( '/' ) ); ?>">
+				<img id="img-logo" class="img-responsive" src="<?php echo get_stylesheet_directory_uri() . '/img/logo.png'; ?>" height="94" width="268" alt="">
+			</a>
+		</div>
+	</div>
+	<!-- END of LOGO -->
 
-	<div id="sidebar" class="sidebar">
+	<!-- MENU -->
+	
+	<div id="menu">
+		<div class="nav-menu">
+			<nav class="navbar container navbar-default">
+			<?php 
+				wp_nav_menu( 
+					array( 
+						'theme_location' => 'primary', 
+						'menu_class' => 'nav navbar-nav',
+						'container'       => 'div',
+						'container_class' => 'navbar-collapse collapse',
+						'container_id'    => 'main-menu',
+					) 
+				); 
+			?>
+			</nav>
+		</div>
+	</div>
+
+
+	<!-- <div id="sidebar" class="sidebar">
 		<header id="masthead" class="site-header" role="banner">
 			<div class="site-branding">
 				<?php
@@ -42,10 +73,13 @@
 					<?php endif;
 				?>
 				<button class="secondary-toggle"><?php _e( 'Menu and widgets', 'twentyfifteen' ); ?></button>
-			</div><!-- .site-branding -->
-		</header><!-- .site-header -->
+			</div><!-- .site-branding --
+		</header><!-- .site-header --
 
 		<?php get_sidebar(); ?>
-	</div><!-- .sidebar -->
+	</div><!-- .sidebar --> 
+	<!-- END of MENU -->
 
-	<div id="content" class="site-content">
+
+
+	<div id="main-content" class="row">

@@ -16,7 +16,7 @@
  * @since Twenty Fifteen 1.0
  */
 
-get_header(); echo 'kaka';?>
+get_header(); echo 'kaka'; ?>
 
 	<section id="primary" class="content-area">
 		<main id="main" class="site-main" role="main">

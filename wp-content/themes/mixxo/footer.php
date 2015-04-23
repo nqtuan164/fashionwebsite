@@ -11,8 +11,33 @@
 ?>
 
 	</div><!-- .site-content -->
+	
+	<!-- FOOTER -->
+	<div id="footer" >
 
-	<footer id="colophon" class="site-footer" role="contentinfo">
+		<hr>
+		<div class="footer-content container nopadding">
+			
+			<div class="col-md-6 footer-address nopadding">
+				<img class="img-responsive" src="<?php echo get_stylesheet_directory_uri() . '/img/logo-2.png'; ?>" alt="">
+				<ul class="list-unstyled">
+					<li><b>Địa Chỉ:</b> 31 Lê Minh Xuân , Phường 7 , Quận Tân Bình</li>
+					<li><b>Điện thoại:</b> (08) 39716863 / (08) 39712566 / (08)39712656 / 0949999305</li>
+				</ul>
+			</div>
+			<div class="col-md-6 footer-social pull-right nopadding">
+				<h4 class="col-md-12 nopadding"><i class="pull-right ">Thương hiệu thời trang uy tín hàng đầu Việt Nam</i></h4>
+				<ul class="list-inline pull-right">
+					<li><a href=""><span class="glyphicon glyphicon-heart"></span></a></li>
+					<li><a href=""><span class="glyphicon glyphicon-heart"></span></a></li>
+					<li><a href=""><span class="glyphicon glyphicon-heart"></span></a></li>
+				</ul>
+			</div>
+		</div>
+	</div>
+	<!-- END of FOOTER -->
+
+	<!-- <footer id="colophon" class="site-footer" role="contentinfo">
 		<div class="site-info">
 			<?php
 				/**
@@ -23,7 +48,7 @@
 				do_action( 'twentyfifteen_credits' );
 			?>
 			<a href="<?php echo esc_url( __( 'https://wordpress.org/', 'twentyfifteen' ) ); ?>"><?php printf( __( 'Proudly powered by %s', 'twentyfifteen' ), 'WordPress' ); ?></a>
-		</div><!-- .site-info -->
+		</div><!-- .site-info --
 	</footer><!-- .site-footer -->
 
 </div><!-- .site -->

@@ -329,3 +329,16 @@ require get_template_directory() . '/inc/template-tags.php';
  * @since Twenty Fifteen 1.0
  */
 require get_template_directory() . '/inc/customizer.php';
+
+
+add_action('wp_enqueue_scripts', 'add_custom_css');
+function add_custom_css() {
+	wp_enqueue_style('my-bootstrap',  get_stylesheet_directory_uri() . '/css/bootstrap.css');
+	wp_enqueue_style('my-bootstrap-map',  get_stylesheet_directory_uri() . '/css/bootstrap.css.map');
+	wp_enqueue_style('my-reset',  get_stylesheet_directory_uri() . '/css/reset.css');
+	wp_enqueue_style('my-style',  get_stylesheet_directory_uri() . '/css/style.css');
+
+	//wp_enqueue_script('my-jquery',  get_stylesheet_directory_uri() . '/js/jquery.js');
+	wp_enqueue_script('my-bootstrap-script',  get_stylesheet_directory_uri() . '/js/bootstrap.min.js');
+	wp_enqueue_script('my-script',  get_stylesheet_directory_uri() . '/js/script.js');
+}
