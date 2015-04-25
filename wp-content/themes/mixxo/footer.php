@@ -21,8 +21,8 @@
 			<div class="col-md-6 footer-address nopadding">
 				<img class="img-responsive" src="<?php echo get_stylesheet_directory_uri() . '/img/logo-2.png'; ?>" alt="">
 				<ul class="list-unstyled">
-					<li><b>Địa Chỉ:</b> 31 Lê Minh Xuân , Phường 7 , Quận Tân Bình</li>
-					<li><b>Điện thoại:</b> (08) 39716863 / (08) 39712566 / (08)39712656 / 0949999305</li>
+					<li><b>Địa Chỉ:</b> <?php echo get_option('quotuts_address'); ?></li>
+					<li><b>Điện thoại:</b> <?php echo get_option('quotuts_phone'); ?></li>
 				</ul>
 			</div>
 			<div class="col-md-6 footer-social pull-right nopadding">
